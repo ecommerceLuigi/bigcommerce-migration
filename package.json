@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "axios": "^1.7.7",
-    "@resend/resend": "^3.5.0",
+    "resend": "^4.5.1",
     "node-cron": "^3.0.3"
   },
   "engines": {
